@@ -1,5 +1,5 @@
 import React from 'react'
-import TopTitle from '../topTitle'
+import TopTitle from '../TopTitle'
 import SectionHeader from '../SectionHeader'
 import Banner from './Banner';
 import Features from '../../ui/feature'
