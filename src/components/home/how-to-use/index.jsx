@@ -1,6 +1,6 @@
 import React from 'react'
 import SectionHeader from '../SectionHeader'
-import TopTitle from '../topTitle'
+import TopTitle from '../TopTitle'
 import { assets } from '../../../assets/assets'
 import Features from '../../ui/feature'
 
